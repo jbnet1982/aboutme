@@ -12,6 +12,11 @@ Soy un Desarrollador Full Stack con cerca de 20 años de experiencia en el desar
 
 ## Experiencia Profesional Destacada
 
+### Fonles Studios Ecuador
+
+- Diseñé e implementé,Backend y Front  en .Net C# ASP Net Core y Nextjs para la Aplicación de Registros de Expedientes y Casos 
+para Jueces de Ecuador y LATAM (Fonles Law App), reduciendo en 80% la gestión del tiempo en la elaboración de expedientes.
+
 ### Ciel Ingeniería
 - Diseñé y mantuve módulos como **Indentii Web App** y **Histomed**, logrando una reducción del 30% en los tiempos de carga.
 - Mejoré la eficiencia del equipo en un 20% mediante optimización de código en **C#** y **TypeScript**.
@@ -35,6 +40,7 @@ Soy un Desarrollador Full Stack con cerca de 20 años de experiencia en el desar
 - **Inglés:** Nivel B2.
 
 ## Contacto
+- **Telefóno (WhatsApp):** (+593) 97 8710712
 - **Correo Electrónico:** [bulanet1982@gmail.com](mailto:bulanet1982@gmail.com)
 - **LinkedIn:** [Jonathan Bula](https://www.linkedin.com/in/jonathan-bula-59b)
 
