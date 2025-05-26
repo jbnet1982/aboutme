@@ -5,8 +5,8 @@ Soy un Desarrollador Full Stack con cerca de 20 años de experiencia en el desar
 
 ## Tecnologías y Habilidades Clave
 - **Lenguajes de Programación:** C#, C++, Visual Basic, PHP, JavaScript, Python, Kotlin.
-- **Frontend:** Angular, React, Vue.js, Vuetify, Blazor.
-- **Backend:** NodeJs, NextJs, .NET Core, Django, Laravel, Spring Boot.
+- **Frontend:** Angular, React, NextJs, Vue, Vuetify y Blazor Assembly .
+- **Backend:** NodeJs, .NET Core, Django, Laravel, Spring Boot.
 - **Bases de Datos:** SQL Server, MySQL, PostgreSQL, MongoDB.
 - **Nube:** AWS, Azure, Google Cloud Firebase.
 
