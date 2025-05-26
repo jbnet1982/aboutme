@@ -33,8 +33,6 @@ Soy un Desarrollador Full Stack con cerca de 20 años de experiencia en el desar
 ## Idiomas
 - **Español:** Nativo.
 - **Inglés:** Nivel B2.
-- **Italiano:** Nivel A1.
-- **Portugués:** Nivel A1.
 
 ## Contacto
 - **Correo Electrónico:** [bulanet1982@gmail.com](mailto:bulanet1982@gmail.com)
