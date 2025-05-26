@@ -4,9 +4,9 @@
 Soy un Desarrollador Full Stack con cerca de 20 años de experiencia en el desarrollo de aplicaciones de escritorio, web y móvil. Estoy especializado en **.NET** y **SQL Server** y poseo amplios conocimientos en una variedad de lenguajes de programación, frameworks y tecnologías.
 
 ## Tecnologías y Habilidades Clave
-- **Lenguajes de Programación:** C#, C++, Visual Basic, PHP, JavaScript, Python, Kotlin.
+- **Lenguajes de Programación:** C#, C++, Visual Basic, Visual FoxPro, PHP, JavaScript, TypeScript, Python, Java y Kotlin.
 - **Frontend:** Angular, React, NextJs, Vue, Vuetify y Blazor Assembly .
-- **Backend:** NodeJs, .NET Core, Django, Laravel, Spring Boot.
+- **Backend:** NodeJs, .NET Core, Django, Laravel y Spring Boot.
 - **Bases de Datos:** SQL Server, MySQL, PostgreSQL, MongoDB.
 - **Nube:** AWS, Azure, Google Cloud Firebase.
 
